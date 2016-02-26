@@ -2,8 +2,7 @@
 ## China Hopes to Outgrow Its 'Weird Architecture' Trend
 ##### The country wants stricter building standards—and fewer teapot-shaped buildings and knockoff White Houses.
 
-![2dbf0dc460ae127cf92faf1a9c0dba76.png](http://pic.ffsky.net/images/2016/02/26/2dbf0dc460ae127cf92faf1a9c0dba76.png)
-> An aerial view of a building shaped like a clay teapot is seen in Wuxi, Jiangsu province. (Reuters/Carlos Barri)
+![An aerial view of a building shaped like a clay teapot is seen in Wuxi, Jiangsu province. (Reuters/Carlos Barri)](http://pic.ffsky.net/images/2016/02/26/2dbf0dc460ae127cf92faf1a9c0dba76.png)
 
 Some of China’s most eye-catching buildings can only be described as “weird”: A hotel made in the form of traditional gods, a teapot-shaped information center, and of course, the CCTV tower, nicknamed “[Big Pants](http://www.citylab.com/design/2012/05/construction-finally-ends-cctvs-beijing-headquarters/2045/).” Then there’s the [copycat architecture](http://www.citylab.com/design/2015/04/copycat-architecture-is-still-booming-in-china/390138/) long popular in the country, including replicas of the Sphinx, the Eiffel Tower, and even the White House.
 
@@ -11,8 +10,7 @@ But the central government thinks country’s attraction to eccentric and grandi
 
 The directive echoes criticisms that President Xi Jingping made in 2014 when he lambasted Chinese buildings shaped like doughnuts, trousers, and genitalia. “Fine art works should be like sunshine from the blue sky and the breeze in spring that will inspire minds, warm hearts, cultivate taste, and clean up undesirable work styles,” he [said](http://www.dezeen.com/2014/10/20/no-more-weird-architecture-in-china-says-chinese-president/) at the time.
 
-![b47b1ba580390807b5d7e7db5703a559.png](http://pic.ffsky.net/images/2016/02/26/b47b1ba580390807b5d7e7db5703a559.png)
-> Built in 2001, the Tianzi hotel is shaped like the gods of fortune, prosperity, and longevity. (Reuters/Christina Hu)
+![Built in 2001, the Tianzi hotel is shaped like the gods of fortune, prosperity, and longevity. (Reuters/Christina Hu)](http://pic.ffsky.net/images/2016/02/26/b47b1ba580390807b5d7e7db5703a559.png)
 
 Architecture has always been a way for China to flaunt its wealth and power. Take, for example, the Forbidden City, constructed during the Ming dynasty in the 15th century. With more than 900 buildings covering 720,000 square meters, it was reserved for emperors and other royalty. In more recent history, Beijing spent $480 million to create its 90,000-seat Bird’s Nest stadium as a symbol of its rising economic status. Built for the 2008 Olympics, it was meant to mesmerize the international community and earn China recognition as an emerging superpower. As [*National Geographic* reported](http://ngm.nationalgeographic.com/2008/05/china/architecture/ted-fishman-text/2) at the time, the stadium was only part of China’s $40-billion building spree during the two- week sporting event:
 
@@ -22,8 +20,7 @@ Rarely are these buildings very practical. Years after the games, the Bird’s N
 
 The new directive stops short of outlining specific guidelines. But Wang Kai, vice president of the China Academy of Urban Planning and Design [told *The New York Times*](http://www.nytimes.com/2016/02/23/world/asia/china-weird-architecture.html?_r=0) that form should follow function: “We shouldn’t go overboard in pursuit of appearances.”
 
-![75a50e163c751d62c0b49c70c9e9971e.png](http://pic.ffsky.net/images/2016/02/26/75a50e163c751d62c0b49c70c9e9971e.png)
-> The doughnut-shaped Guangzhou Circle building was designed to resemble an ancient Chinese jade disc, but it’s popularly known as the “flashy rich people’s circle.” (Reuters/Alex Lee)
+![The doughnut-shaped Guangzhou Circle building was designed to resemble an ancient Chinese jade disc, but it’s popularly known as the “flashy rich people’s circle.” (Reuters/Alex Lee)](http://pic.ffsky.net/images/2016/02/26/75a50e163c751d62c0b49c70c9e9971e.png)
 
 Indeed, as the University of California, Berkeley, architecture professor [Renee Chow](http://www.fieldurbanism.com) argued in her 2015 book *Changing Chinese Cities: The Potentials of Field Urbanism*, urban development in China needs to shift away from “figures and objects.” By doing so, she writes, China has filled its skyline with recognizable but disconnected structures, and cities are “becoming a loose chain of buildings with swaths of wasted spaces between objects that are neither sustainable nor legible.” Instead, Chow pushes for “field urbanism”: Cities should modernize without losing sight of their traditional bearings, respond to its environment, and adapt to the needs of residents.
 

@@ -1,3 +1,4 @@
+<meta charset=“utf8”>
 # Deconstruction and Reconstruction: Contemporary Public Art Under the Vision of Ecological Aesthetics
 
 #### LI Xiaoguang[^a]
