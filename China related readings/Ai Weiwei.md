@@ -1,3 +1,4 @@
+<meta charset="utf8">
 # So Sorry––Never Sorry. Ai Weiwei’s Art between Tradition and Modernity
 
 #### Tania BECKER[^*]
@@ -99,8 +100,9 @@ Ai Weiwei’s artistic and public actions are clear reactions to and critical co
 **References**
 
 > Ai Weiwei. 2009. *Barely Something*. Duisburg: GDKM.
-> Ai Weiwei, and Mark Siemons, eds. 2009. *Ai Weiwei––So Sorry.* München: Prestel.
-> ArtSchoolVets!. 2011. “Ai Weiweis Atelier in Shanghai abgerissen.” Accessed January 12, 2011. http://www.artschoolvets.com/news/2011/01/12/ai-weiweis-atelier-in-shanghai- abgerissen.
+> 
+> Ai Weiwei, and Mark Siemons, eds. 2009. *Ai Weiwei––So Sorry.* München: Prestel.> 
+> ArtSchoolVets!. 2011. “Ai Weiweis Atelier in Shanghai abgerissen.” Accessed January 12, 2011. http://www.artschoolvets.com/news/2011/01/12/ai-weiweis-atelier-in-shanghai- abgerissen.> 
 > “Building Beijing Stadium.” Accessed 7 May, 2008. [http://www.youtube.com/watch?v=FynuR_g-ewo&feature=fvwrel](http://www.youtube.com/watch?v=FynuR_g-ewo&feature=fvwrel).
 > BBC News. “China Nobel Row: Artist Ai Weiwei Stopped from Leaving.” Accessed December 3, 2010. [http://www.bbc.co.uk/news/world-asia-pacific-11909470](http://www.bbc.co.uk/news/world-asia-pacific-11909470).
 > Bork, Henrik. 2009. “Ai Weiwei erhebt schwere Vorwürfe gegen Peking.” Accessed September 15, 2009. [http://www.sueddeutsche.de/politik/china-pruegel-fuer- staatskuenstler-ai-weiwei-erhebt-schwere-vorwuerfe-gegen-peking-1.31578](http://www.sueddeutsche.de/politik/china-pruegel-fuer-).
