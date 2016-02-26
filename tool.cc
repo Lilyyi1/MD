@@ -5,18 +5,28 @@
 #include <algorithm>
 using namespace std;
 
+string s[50];
+
 int main()
 {
-    string s, pieces;
-    while(1) {
-        s.clear(), pieces.clear();
-        while(cin >> pieces, pieces != "-") {
-           if(s.length() != 1 && !(s[s.length() - 1] == ' ' || pieces[0] == ' '))
-               pieces = " " + pieces;
-           s += pieces;
+    for(int i = 1; i <= 48; ++i) {
+        getline(cin, s[i]);
+        //[^n]:
+        string temp;
+        int p = 0;
+        while(s[i][p] != ' ') {
+            temp += s[p];
+            ++p;
         }
-        cout << s << endl;
-        puts("Waiting for next input...");
+        string after;
+        ++p;
+        for(p; p != s[i].length() - 1; ++p)
+            after += s[i][p];
+        s[i] = "[^" + temp + "]:" + after;
     }
+    
+    freopen("output.txt", "w", stdout);
+    for(int i = 1; i <= 48; ++i)
+        cout << s[i] << endl;
     return 0;
 }
